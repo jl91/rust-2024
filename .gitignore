@@ -1,0 +1,17 @@
+# Ignore Cargo.lock in a library
+*/Cargo.lock
+
+# Ignore everything in the target directory
+target/
+
+# Ignore .DS_Store files (Mac OS)
+**/.DS_Store
+
+# Ignore files related to JetBrains IDEs
+.idea/
+*.iml
+
+# Ignore files related to VS Code
+.vscode/
+
+**/.git
